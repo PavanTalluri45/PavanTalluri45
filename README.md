@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered applications and full-stack development projects.<br><br>👯 I’m looking to collaborate on open-source projects, AI tools, and modern web applications.<br><br>🤝 I’m looking for help with system design, cloud deployment, and scalable application architecture.<br><br>🌱 I’m currently learning Generative AI, RAG Systems and cloud technologies.<br><br>💬 Ask me about React.js, Next.js, Node.js, REST APIs and AI integrations.<br><br>⚡ Fun fact: I enjoy turning real-world problems into web applications and continuously learning new technologies.
+🔭 I’m open to Fresher Software Developer or Full Stack Developer opportunities.<br><br>🤝 I’m looking for help with system design, cloud deployment, and scalable application architecture.<br><br>🌱 I’m currently learning Generative AI, RAG Systems and cloud technologies.<br><br>💬 Ask me about React.js, Next.js, Node.js, REST APIs, DBMS and AI integrations.<br><br>⚡ Fun fact: I enjoy turning real-world problems into web applications and continuously learning new technologies.
 
 
 ## 🌐 Socials:
